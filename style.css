@@ -1,3 +1,18 @@
+
+.start{
+    background-color: #4CAF50; /* Green */
+    border-radius: 2px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.score{
+    
+}
+
 .grid{
     width: 200px;
     height: 200px;
@@ -22,14 +37,4 @@
 .apple {
     border-radius: 10px;
     background-color: #a30010;
-}
-
-.start{
-        background-color: #4CAF50; /* Green */
-        border-radius: 2px;
-        color: white;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        font-size: 16px;
 }
